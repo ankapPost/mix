@@ -6,3 +6,8 @@ selenium
 	
 
 firefox -> firebug
+
+From dev ops requirment
+	Docker
+	Kubernetes
+	Travis CI
